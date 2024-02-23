@@ -29,7 +29,7 @@ def gerarPerguntaFuncao(num: int, descricao: str, orgao: str, numPerguntas: int)
                 break
 
             
-# lendo tabela de perguntas
+# lendo tabelas de perguntas
 tabela = pd.read_excel('tabelaOrgaos.xlsx')
 
 # inicializando listas
